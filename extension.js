@@ -25,7 +25,7 @@ class MyExtension {
           // It corresponds to the class method with the same name.
           opcode: 'pi',
           blockType: Scratch.BlockType.REPORTER,
-          text: '3.14159265359'
+          text: 'π (pi)'
         }
       ]
     };
