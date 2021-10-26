@@ -1,2 +1,2 @@
 # Turbowarp-Extensions
-I created some more Turbowarp extensions for [extensions.turbowarp.org](extensions.turbowarp.org).
+I created some more Turbowarp extensions for [https://extensions.turbowarp.org](https://extensions.turbowarp.org).
