@@ -26,6 +26,11 @@ class PiExtension {
           blockType: Scratch.BlockType.REPORTER,
           text: 'Pi'
         }
+        {
+        opcode: 'pifraction',
+        blockType: Scratch.BlockType.REPORTER,
+        text: 'Pi as a fraction'
+        }
       ]
     };
   }
@@ -34,6 +39,9 @@ class PiExtension {
     // You can just return a value: any string, boolean, or number will work.
     return '3.14159265359';
   }
+pifraction() {
+  return '22/7';
+}
 }
 
 // Call Scratch.extensions.register to register your extension
