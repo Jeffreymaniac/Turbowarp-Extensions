@@ -26,11 +26,6 @@ class PiExtension {
           blockType: Scratch.BlockType.REPORTER,
           text: 'Pi'
         }
-        {
-        opcode: 'pifraction',
-        blockType: Scratch.BlockType.REPORTER,
-        text: 'Pi as a fraction'
-        }
       ]
     };
   }
